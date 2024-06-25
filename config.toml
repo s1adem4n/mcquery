@@ -1,0 +1,5 @@
+[web]
+address = ":2555"
+
+[minecraft]
+address = "mc.hypixel.net:25565"

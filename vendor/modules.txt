@@ -1,0 +1,23 @@
+# github.com/Tnze/go-mc v1.20.2
+## explicit; go 1.20
+github.com/Tnze/go-mc/bot
+github.com/Tnze/go-mc/chat
+github.com/Tnze/go-mc/data/lang/en-us
+github.com/Tnze/go-mc/data/packetid
+github.com/Tnze/go-mc/nbt
+github.com/Tnze/go-mc/net
+github.com/Tnze/go-mc/net/CFB8
+github.com/Tnze/go-mc/net/packet
+github.com/Tnze/go-mc/net/queue
+github.com/Tnze/go-mc/registry
+github.com/Tnze/go-mc/yggdrasil/user
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/pelletier/go-toml/v2 v2.2.2
+## explicit; go 1.16
+github.com/pelletier/go-toml/v2
+github.com/pelletier/go-toml/v2/internal/characters
+github.com/pelletier/go-toml/v2/internal/danger
+github.com/pelletier/go-toml/v2/internal/tracker
+github.com/pelletier/go-toml/v2/unstable
