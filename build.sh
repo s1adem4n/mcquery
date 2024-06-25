@@ -6,4 +6,4 @@ bun run build
 
 cd ..
 go mod vendor
-go build -o bin/mcquery main.go
+go build -o build/mcquery main.go
